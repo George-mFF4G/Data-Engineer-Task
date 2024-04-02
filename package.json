@@ -1,0 +1,27 @@
+{
+  "name": "data-engineer-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "prettier": "npx prettier --write *.ts",
+    "lint": "npx eslint *.ts",
+    "importJson": "mongoimport --db test --collection brands --file old-brands.json --jsonArray",
+    "start": "ts-node index.ts"
+  },
+  "author": "george morkos",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "exceljs": "^4.4.0",
+    "mongoose": "^8.2.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.5.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.2.5"
+  }
+}

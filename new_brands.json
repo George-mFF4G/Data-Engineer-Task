@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T04:42:35.472Z",
+    "updatedAt": "2024-04-02T04:42:35.472Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T04:42:35.479Z",
+    "updatedAt": "2024-04-02T04:42:35.479Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "yearFounded": 1970,
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "createdAt": "2024-04-02T04:42:35.482Z",
+    "updatedAt": "2024-04-02T04:42:35.482Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000,
+    "createdAt": "2024-04-02T04:42:35.483Z",
+    "updatedAt": "2024-04-02T04:42:35.483Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "brandName": "Licensed Concrete Tuna",
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T04:42:35.485Z",
+    "updatedAt": "2024-04-02T04:42:35.485Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "headquarters": "DuBuqueburgh",
+    "numberOfLocations": 9200,
+    "createdAt": "2024-04-02T04:42:35.487Z",
+    "updatedAt": "2024-04-02T04:42:35.487Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "yearFounded": 1980,
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T04:42:35.488Z",
+    "updatedAt": "2024-04-02T04:42:35.488Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T04:42:35.490Z",
+    "updatedAt": "2024-04-02T04:42:35.490Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T04:42:35.491Z",
+    "updatedAt": "2024-04-02T04:42:35.491Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T04:42:35.492Z",
+    "updatedAt": "2024-04-02T04:42:35.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b8cbbcc78628fb9978056",
+    "brandName": "turn-key",
+    "yearFounded": 1685,
+    "headquarters": "Port Annabelhaven",
+    "numberOfLocations": 72,
+    "createdAt": "2024-04-02T04:42:35.499Z",
+    "updatedAt": "2024-04-02T04:42:35.499Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b8cbbcc78628fb9978058",
+    "brandName": "best-of-breed",
+    "yearFounded": 1873,
+    "headquarters": "Hermannbury",
+    "numberOfLocations": 88,
+    "createdAt": "2024-04-02T04:42:35.504Z",
+    "updatedAt": "2024-04-02T04:42:35.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b8cbbcc78628fb997805a",
+    "brandName": "B2B",
+    "yearFounded": 1806,
+    "headquarters": "Marquardtfurt",
+    "numberOfLocations": 64,
+    "createdAt": "2024-04-02T04:42:35.506Z",
+    "updatedAt": "2024-04-02T04:42:35.506Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b8cbbcc78628fb997805c",
+    "brandName": "mission-critical",
+    "yearFounded": 1952,
+    "headquarters": "Daveton",
+    "numberOfLocations": 10,
+    "createdAt": "2024-04-02T04:42:35.508Z",
+    "updatedAt": "2024-04-02T04:42:35.508Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b8cbbcc78628fb997805e",
+    "brandName": "killer",
+    "yearFounded": 1972,
+    "headquarters": "Coletown",
+    "numberOfLocations": 92,
+    "createdAt": "2024-04-02T04:42:35.509Z",
+    "updatedAt": "2024-04-02T04:42:35.509Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b8cbbcc78628fb9978060",
+    "brandName": "open-source",
+    "yearFounded": 1763,
+    "headquarters": "Botsfordshire",
+    "numberOfLocations": 40,
+    "createdAt": "2024-04-02T04:42:35.510Z",
+    "updatedAt": "2024-04-02T04:42:35.510Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b8cbbcc78628fb9978062",
+    "brandName": "one-to-one",
+    "yearFounded": 1961,
+    "headquarters": "South Bryanaburgh",
+    "numberOfLocations": 67,
+    "createdAt": "2024-04-02T04:42:35.511Z",
+    "updatedAt": "2024-04-02T04:42:35.511Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b8cbbcc78628fb9978064",
+    "brandName": "dot-com",
+    "yearFounded": 1801,
+    "headquarters": "North Roxanne",
+    "numberOfLocations": 21,
+    "createdAt": "2024-04-02T04:42:35.512Z",
+    "updatedAt": "2024-04-02T04:42:35.512Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b8cbbcc78628fb9978066",
+    "brandName": "clicks-and-mortar",
+    "yearFounded": 1738,
+    "headquarters": "Helmermouth",
+    "numberOfLocations": 49,
+    "createdAt": "2024-04-02T04:42:35.513Z",
+    "updatedAt": "2024-04-02T04:42:35.513Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b8cbbcc78628fb9978068",
+    "brandName": "dynamic",
+    "yearFounded": 1960,
+    "headquarters": "Franeyport",
+    "numberOfLocations": 87,
+    "createdAt": "2024-04-02T04:42:35.515Z",
+    "updatedAt": "2024-04-02T04:42:35.515Z",
+    "__v": 0
+  }
+]
